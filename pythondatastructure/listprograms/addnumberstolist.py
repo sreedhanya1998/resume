@@ -6,6 +6,5 @@ for i in range(1,limit+1):
        even.append(i)
     else:
       odd.append(i)
-
 print(even)
 print(odd)
